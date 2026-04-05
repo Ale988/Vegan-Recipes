@@ -1,4 +1,4 @@
-# Changelog — Tiramisù Vegano
+# Changelog
 
 Tutte le modifiche rilevanti a questo documento sono tracciate qui.
 

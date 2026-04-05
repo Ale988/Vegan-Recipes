@@ -6,7 +6,7 @@
 
 ## Lista della Spesa Completa
 
-> Tutto quello che ti serve
+> Tutto quello che serve
 
 | Ingrediente | Quantità totale |
 |---|---|
@@ -243,7 +243,7 @@ Setaccia la crema pasticcera vegana con un colino e aggiungila alla panna montat
 
 ---
 
-## 🏗️ Assemblaggio
+## Assemblaggio
 
 1. **L'inzuppo:** Tuffa i savoiardi nel caffè freddo per **1–2 secondi per lato** — devono bagnarsi ma non spappolarsi.
 2. **Primo strato:** Fodera il fondo della teglia senza lasciare spazi vuoti.
