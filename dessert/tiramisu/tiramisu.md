@@ -51,6 +51,8 @@ In questa versione vegana si utilizza una **crema pasticcera vegana** (latte + a
 
 L'acqua di cottura dei ceci contiene proteine e amidi disciolti che, quando vengono montati, intrappolano aria esattamente come l'albume. La riduzione (far bollire il liquido finché non si concentra - nel caso dei ceci scolati dal barattolo si riduce di un terzo, mentre quelli cotti in casa bisogna ridurli di un mezzo) è fondamentale: aumenta la concentrazione di queste proteine, rendendo la montata più stabile e voluminosa. Il cremor tartaro e il succo di limone abbassano il pH del composto, aiutando le proteine a legarsi più saldamente e la schiuma a restare ferma più a lungo.
 
+> L'acquafaba ha un sapore neutro e, contrariamente a quanto si possa pensare, non sa di ceci.
+
 ### L'Amido di Mais
 
 Nei **savoiardi**, l'amido serve a "tagliare" la forza della farina 0, indebolendo la maglia glutinica. Questo trucco permette di ottenere un biscotto leggero, arioso e friabile — l'effetto strutturale che nella ricetta tradizionale viene dato dal tuorlo d'uovo.
