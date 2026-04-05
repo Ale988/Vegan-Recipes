@@ -64,7 +64,7 @@ Nella **crema pasticcera vegana**, l'amido agisce invece da gelificante neutro. 
 Nella ricetta tradizionale il savoiardo si regge su due pilastri: l'albume montato (aria) e il tuorlo (ricchezza e grasso). L'aquafaba replica perfettamente il primo, ma essendo acqua di legumi ha 0% di grassi. Il burro vegetale fuso copre esattamente questo vuoto, con tre effetti distinti:
 
 1. **Friabilità:** Il grasso si distribuisce nell'impasto rivestendo le molecole di farina e inibendo la formazione della maglia glutinica. Senza di esso, otterresti un biscotto duro e coriaceo, quasi come un pane secco.
-2. **Struttura:** Il burro consolida l'impasto rendendolo abbastanza sodo da non allargarsi sulla teglia in cottura.
+2. **Struttura:** Il burro consolida l'impasto rendendolo abbastanza sodo da non allargarsi sulla teglia.
 3. **Resistenza all'inzuppo:** I grassi creano una microscopica rete impermeabile all'interno della struttura spugnosa del savoiardo. Questo bilanciamento permette al biscotto di assorbire il caffè per capillarità gonfiandosi, ma mantenendo la propria struttura cellulare intatta durante il taglio della fetta.
 
 > **Regola d'oro:** Il burro fuso non deve mai essere caldo quando tocca la montata di aquafaba. Un grasso caldo "cuocerebbe" le proteine, facendo collassare tutta la schiuma. Deve essere a temperatura ambiente, appena tiepido ma ancora fluido (25–30°C).
@@ -252,7 +252,7 @@ Setaccia la crema pasticcera vegana con un colino e aggiungila alla panna montat
 3. Versa **metà esatta** della crema sopra i biscotti e livella bene con la spatola o il dorso di un cucchiaio.
 4. **Secondo strato:** Fai un altro piano di savoiardi inzuppati. Se riesci, **incrociali rispetto ai primi** per dare più struttura alla fetta.
 5. **Chiusura:** Versa tutto il resto della crema e liscia la superficie.
-6. **Riposo in frigo:** Copri la teglia con pellicola trasparente o carta stagnola tenendola tesa in modo che non tocchi la crema. Metti in frigorifero.
+6. **Riposo in frigo:** Copri la teglia con pellicola trasparente o carta stagnola tenendola tesa in modo che non tocchi la crema. Metti in frigorifero per almeno 6 ore.
 
 ---
 
