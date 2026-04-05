@@ -29,7 +29,7 @@
 
 ---
 
-## 🧪 Principi Teorici
+## Principi Teorici
 
 > Capire il perché di ogni passaggio ti aiuta a non sbagliare.
 
@@ -132,7 +132,7 @@ Il caffè per inzuppare i savoiardi deve essere completamente freddo per due mot
 
 ---
 
-## ⏰ Da fare PRIMA (almeno 2-4 ore in anticipo)
+## Da fare PRIMA (almeno 2-4 ore in anticipo)
 
 > Queste preparazioni vanno in frigo per almeno 4 ore prima di procedere (devono essere belle fredde).
 
@@ -142,7 +142,7 @@ Il caffè per inzuppare i savoiardi deve essere completamente freddo per due mot
 
 ---
 
-## 📋 Procedimento
+## Procedimento
 
 ### Parte 1 — Savoiardi
 
