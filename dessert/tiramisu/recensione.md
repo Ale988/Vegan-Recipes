@@ -19,3 +19,7 @@
 - Ridurre la quantità di zucchero nella componente in cui ha funzione puramente dolcificante (la crema base in cui si potrebbe passare da 80 g a 50 g o anche 40 g). Va anche tenuto in considerazione che che la panna vegetale Hopla utilizzata è già zuccherata.
 - Eliminiamo la buccia di limone dalla crema base: useremo solo la vaniglia per un profilo aromatico più caldo. Modifichiamo la meringa: Rimuoviamo i 4 ml di succo di limone. Manterremo solamente i 5 g di cremor tartaro: sono più che sufficienti per attivare le proteine dell'aquafaba garantendo stabilità senza apportare sapore.
 - Aumentare il tempo di inzuppo dei savoiardi nel caffè passando da 1-2 secondi a 3-4 secondi per lato.
+
+## Risultati decisivi v1.1.0 - v1.2.0
+
+Sia la versione 1.1.0 che la versione 1.2.0 sono piaciute molto ricordando il "vero" tiramisù 

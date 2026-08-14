@@ -4,6 +4,22 @@ Tutte le modifiche rilevanti a questo documento sono tracciate qui.
 
 ---
 
+## [1.2.0] — 2026-08-14
+
+### Aggiunto
+- [`principi.md`](principi.md) — principi teorici (crema, aquafaba, savoiardi)
+- [`savoiardi.md`](savoiardi.md) — ricetta savoiardi artigianali (spesa, ingredienti, procedimento)
+
+### Modificato
+- Sistemato organizzazione del documento
+- Specificato e chiarito alcuni aspetti sul cremor tartaro
+- [`tiramisu.md`](tiramisu.md) snellito a scheda cucina (digestive + crema); link a principi e savoiardi
+- Note operative brevi nel procedimento con rimandi ai principi
+
+### Rimosso da tiramisu.md
+- Sezione Principi Teorici (spostata)
+- Lista B / ingredienti / procedimento savoiardi (spostati)
+
 ## [1.1.0] — 2026-04-20
 
 ### Aggiunto
