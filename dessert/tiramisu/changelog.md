@@ -4,7 +4,12 @@ Tutte le modifiche rilevanti a questo documento sono tracciate qui.
 
 ---
 
-## [1.2.0] — 2026-08-14
+## [1.2.1] — 2026-08-20
+
+### Aggiunto
+- Cartella `assets/` con foto step-by-step integrate in [`procedimento.md`](procedimento.md)
+
+## [1.2.1] — 2026-08-14
 
 ### Aggiunto
 - [`principi.md`](principi.md) — principi teorici (crema, aquafaba, savoiardi)
