@@ -99,15 +99,15 @@
 
 **Aquafaba ridotta:** Scola circa **135 g di liquido** e riduci di un terzo fino a **90 g** (solo meringa). Puoi ridurre un po’ di più: nell’ultima prova **78 g** hanno montato benissimo. Se fai anche i [savoiardi](savoiardi.md), riduci insieme ~350 g di liquido → ~235 g (145 g savoiardi + 90 g / 78 g meringa) in due contenitori. I ceci possono essere conservati in freezer in sacchettini o in frigo per massimo 3 giorni.
 
-<img src="assets/acquafaba.JPG" alt="Aquafaba pronta per la meringa" width="480">
+<img src="assets/01-prep-aquafaba-ridotta.jpg" alt="Aquafaba pronta per la meringa" width="480">
 
 **Caffè:** Prepara **1 moka da 3 persone** (circa 120 ml di caffè). Usalo **tiepido** al momento dell'assemblaggio — non bollente.
 
-<img src="assets/caffè.JPG" alt="Caffè tiepido per l'inzuppo" width="480">
+<img src="assets/02-prep-caffe-tiepido.jpg" alt="Caffè tiepido per l'inzuppo" width="480">
 
 **Cremoso Valle:** Tira fuori dal frigo almeno 30 minuti prima di usarlo: deve essere a temperatura ambiente, morbido e lavorabile.
 
-<img src="assets/mascarpone_vegetale.JPG" alt="Cremoso Valle — mascarpone vegetale" width="480">
+<img src="assets/03-prep-cremoso-valle.jpg" alt="Cremoso Valle — mascarpone vegetale" width="480">
 
 ---
 
@@ -124,18 +124,18 @@
 3. Metti sul fuoco a **bassa potenza** (induzione livello 6 su 9) e mescola continuamente con una frusta finché non si addensa.
 4. **Raffreddamento rapido:** Togli dal fuoco, versala in una ciotola larga e coprila subito con **pellicola a contatto** con la crema. Se non hai tempo (motivo per cui questo passaggio consiglio di farlo con calma anche il giorno prima) immergi la ciotola in un'altra più grande piena di acqua e ghiaccio e poi in freezer appena si è raffreddata un po' fino a che non raggiunge più o meno i 20° (10-15 minuti di freezer dovrebbero bastare a occhio). Deve essere completamente fredda prima del passo successivo.
 
-<img src="assets/crema_pasticcera_non_uovo.JPG" alt="Crema pasticcera vegana raffreddata" width="480">
+<img src="assets/04-crema-pasticcera-raffreddata.jpg" alt="Crema pasticcera vegana raffreddata" width="480">
 
 ### Parte 2 — Crema al Mascarpone Vegetale
 
 1. Porta la crema pasticcera all'in una ciotola capiente e inizia piano piano a mescolarla con le fruste (a bassa potenza) in modo tale da ottenere nuovamente un composto cremoso (cerca di evitare che si formino grumi, se vuoi essere più sicuro puoi anche setacciarla in un colino prima di mescolarla con le fruste).
 
-<img src="assets/crema_pasticcera_non_uovo_mescolata.JPG" alt="Crema pasticcera rimontata prima del mascarpone" width="480">
+<img src="assets/05-crema-pasticcera-rimontata.jpg" alt="Crema pasticcera rimontata prima del mascarpone" width="480">
 
 2. Aggiungi il Cremoso Valle (a temperatura ambiente) **poco per volta**, lavorando con le fruste elettriche ad ogni aggiunta.
 3. Continua fino a ottenere una crema **liscia, uniforme e vellutata**, senza grumi (il sapore non dovrebbe essere troppo dolce, bensì fresco ed equilibrato).
 
-<img src="assets/mascarpone_e_crema_pasticcera_non_uovo.JPG" alt="Crema al mascarpone vegetale pronta" width="480">
+<img src="assets/06-crema-mascarpone-pronta.jpg" alt="Crema al mascarpone vegetale pronta" width="480">
 
 
 4. Se non usi subito la meringa, copri con pellicola e metti in frigo.
@@ -149,23 +149,23 @@ Nota: assaggia sempre il composto di partenza e mano mano che monti o stai per a
 2. Inizia a montare a **velocità media**, **senza** cremor tartaro.
 3. Quando si forma una schiuma bianca, alza la velocità al **massimo**. Continua finché non vedi solchi e il composto prende corpo.
 
-<img src="assets/acquafaba_inizio_fruste.JPG" alt="Aquafaba all'inizio della montatura" width="480">
+<img src="assets/07-meringa-montatura-inizio.jpg" alt="Aquafaba all'inizio della montatura" width="480">
 
 4. **Cremor tartaro (solo se serve):** se dopo qualche minuto resta molle, non forma solchi o non tiene, aggiungi mezza punta rasa e continua. Se monta già bene da sola, saltalo.
 5. Versa la mezza boccetta di essenza di vaniglia. Se ti sembra poco, aggiungi qualche goccia in più.
 6. Setaccia i 35 g di zucchero a velo direttamente nella ciotola in **2–3 riprese** (non tutto in una volta). Aziona le fruste per qualche secondo tra un'aggiunta e l'altra. Lo zucchero dovrebbe completare densità e lucentezza anche senza acidi.
 
-<img src="assets/zucchero_velo.JPG" alt="Zucchero a velo setacciato" width="480">
+<img src="assets/08-meringa-zucchero-a-velo.jpg" alt="Zucchero a velo setacciato" width="480">
 
 7. Monta per circa **10 minuti** totali: la meringa passerà da neve opaca a **lucidissima, liscia, densa e corposa**, esattamente come la schiuma da barba.
 
-<img src="assets/meringa_vegetale.JPG" alt="Meringa vegetale montata — effetto schiuma da barba" width="480">
+<img src="assets/09-meringa-montata.jpg" alt="Meringa vegetale montata — effetto schiuma da barba" width="480">
 
 > Appena raggiungi questo effetto "schiuma da barba lucida", **spegni tutto**.
 
 > **Test della ciotola capovolta:** se la meringa resta ferma anche con la ciotola rivoltata, la consistenza è giusta.
 
-<img src="assets/meringa_rivolta_in_basso.JPG" alt="Test della ciotola capovolta" width="480">
+<img src="assets/10-meringa-test-ciotola-capovolta.jpg" alt="Test della ciotola capovolta" width="480">
 
 > Nell’ultima prova con **78 g** di aquafaba ridotta non è servito il cremor tartaro: montava già bene da sola e poi con lo zucchero.
 
@@ -185,35 +185,35 @@ Nota: assaggia sempre il composto di partenza e mano mano che monti o stai per a
 
 ## Assemblaggio
 
-<img src="assets/biscotti_digestive.JPG" alt="Biscotti digestive McVitie's" width="480">
+<img src="assets/11-assemblaggio-biscotti-digestive.jpg" alt="Biscotti digestive McVitie's" width="480">
 
 1. **L'inzuppo:** Tuffa i biscotti nel caffè **tiepido** per circa **10 secondi per lato** se usi i digestive.
 2. **Primo strato:** Fodera il fondo della teglia senza lasciare spazi vuoti.
 
-<img src="assets/base_biscotti.JPG" alt="Primo strato di biscotti inzuppati" width="480">
+<img src="assets/12-assemblaggio-primo-strato-biscotti.jpg" alt="Primo strato di biscotti inzuppati" width="480">
 
 3. Versa **metà esatta** della crema sopra i biscotti e livella bene con la spatola o il dorso di un cucchiaio.
 
-<img src="assets/primo_strato.JPG" alt="Primo strato di crema livellato" width="480">
+<img src="assets/13-assemblaggio-primo-strato-crema.jpg" alt="Primo strato di crema livellato" width="480">
 
 4. **Extra caffè:** Versa un filo di caffè tiepido sopra la crema per intensificare l'aroma dello strato intermedio.
 
-<img src="assets/primo_strato_e_caffe.JPG" alt="Filo di caffè sullo strato intermedio" width="480">
+<img src="assets/14-assemblaggio-filo-caffe-intermedio.jpg" alt="Filo di caffè sullo strato intermedio" width="480">
 
 5. **Secondo strato:** Fai un altro piano di biscotti inzuppati. Se riesci, **incrociali rispetto ai primi** per dare più struttura alla fetta.
 
-<img src="assets/secondo_strato.JPG" alt="Secondo strato di biscotti" width="480">
+<img src="assets/15-assemblaggio-secondo-strato-biscotti.jpg" alt="Secondo strato di biscotti" width="480">
 
 6. Se lo ritieni necessario, aggiungi un altro filo di caffè sopra i biscotti del secondo strato prima di coprire.
 7. **Chiusura:** Versa tutto il resto della crema e liscia la superficie.
 
-<img src="assets/secondo_strato_completo.JPG" alt="Superficie lisciata prima del riposo in frigo" width="480">
+<img src="assets/16-assemblaggio-crema-finale.jpg" alt="Superficie lisciata prima del riposo in frigo" width="480">
 
 8. Aggiungere il cacao setacciato uniformemente sulla superficie appena ultimato l'ultimo strato.
 
    Solo al momento di portare in tavola, riapplicare un'altra spolverata per la presentazione finale.
 
-<img src="assets/spolverata_finale_cacao.JPG" alt="Spolverata finale di cacao" width="480">
+<img src="assets/17-assemblaggio-spolverata-cacao.jpg" alt="Spolverata finale di cacao" width="480">
 
 9. **Riposo in frigo:** Copri la teglia con pellicola trasparente tenendola tesa in modo che non tocchi la crema. Metti in frigorifero per almeno **6 ore**, meglio tutta la notte.
 
